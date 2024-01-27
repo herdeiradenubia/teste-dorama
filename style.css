@@ -1,0 +1,16 @@
+h1{
+    color: rgb(33, 2, 71);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(198, 148, 245);
+    background-image: url(./imagem/6170375-removebg.png);
+   
+}
+#bt1{
+    color: rgb(55, 3, 104);
+    background-color: rgb(240, 142, 218);
+}
+.container{
+    position: absolute;top: 40%; left: 50%; transform: translate(-50%, -50%);
+}

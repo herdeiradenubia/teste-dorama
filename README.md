@@ -1,2 +1,2 @@
 # teste-dorama
-Teste que tipo de dorameira você é
+ Descubra que tipo de dorameira você é.
